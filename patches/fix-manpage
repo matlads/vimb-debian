@@ -1,0 +1,11 @@
+--- vimb-3.6.0.orig/doc/vimb.1	2020-01-03 01:17:49.000000000 +0300
++++ vimb-3.6.0/doc/vimb.1	2021-03-12 17:38:48.008229976 +0300
+@@ -1562,7 +1562,7 @@
+ .RE
+ .TP
+ There are also some sample scripts installed together with Vimb under
+-PREFIX/share/vimb/examples.
++PREFIX/share/doc/vimb/scripts/.
+ .
+ .
+ .SH ENVIRONMENT

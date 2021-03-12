@@ -1,0 +1,6 @@
+vimb (3.6.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #982010)
+  * Add icon from https://netvor.info/projects/vimb-logo/32x32.png
+
+ -- Martin Atukunda <matlads@gmail.com>  Fri, 12 Mar 2021 20:09:19 +0300
