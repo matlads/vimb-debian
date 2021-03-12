@@ -1,3 +1,15 @@
+vimb (3.6.0-3) unstable; urgency=medium
+
+  * remove scripts from the docs directory as installed in 3.6.0-2 
+
+ -- Martin Atukunda <matlads@gmail.com>  Fri, 12 Mar 2021 22:42:56 +0300
+
+vimb (3.6.0-2) unstable; urgency=medium
+
+  * install the scripts into /usr/share/vimb/examples as per the manpage 
+
+ -- Martin Atukunda <matlads@gmail.com>  Fri, 12 Mar 2021 22:28:56 +0300
+
 vimb (3.6.0-1) unstable; urgency=medium
 
   * Initial release (Closes: #982010)

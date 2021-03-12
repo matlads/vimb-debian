@@ -1,1 +1,8 @@
 debian/vimb.png /usr/share/pixmaps/
+src/scripts/focus_editor_map_element.js /usr/share/vimb/examples/
+src/scripts/hints.css /usr/share/vimb/examples/
+src/scripts/hints.js /usr/share/vimb/examples/
+src/scripts/increment_uri_number.js /usr/share/vimb/examples/
+src/scripts/js2h.sh /usr/share/vimb/examples/
+src/scripts/scroll.js /usr/share/vimb/examples/
+src/scripts/set_editor_map_element.js /usr/share/vimb/examples/
