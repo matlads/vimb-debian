@@ -1,4 +1,7 @@
 #!/usr/bin/make -f
 
+export PREFIX=/usr
+export DEB_BUILD_MAINT_OPTIONS=hardening=+all,+bindnow
+
 %:
 	dh $@
