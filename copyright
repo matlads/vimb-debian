@@ -4,11 +4,15 @@ Upstream-Contact: https://fanglibsu.github.io/
 Source: https://github.com/fanglingsu/vimb
 
 Files: *
-Copyright: 2012-2018 Daniel Carl <fanglingsu>
+Copyright: 2012-2018 Daniel Carl <danielcarl@gmail.com>
 License: GPL-3.0+
 
 Files: debian/*
 Copyright: 2021 Martin Atukunda <matlads@gmail.com>
+License: GPL-3.0+
+
+Files: debian/vimb.png
+Copyright: Alois Mahdal <amahdal@redhat.com>
 License: GPL-3.0+
 
 License: GPL-3.0+
